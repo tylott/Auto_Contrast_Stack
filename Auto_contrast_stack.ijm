@@ -1,0 +1,1 @@
+runMacro("/Applications/Fiji.app/macros/ABC_each_image.js");
