@@ -16,6 +16,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+A short script to convert images in a stack to 16-bit and enhance contrast. Saturated pixels are set to 0.35 % with normalization by default. 
 */
 
 IJ.run("16-bit", "");
